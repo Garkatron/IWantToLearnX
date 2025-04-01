@@ -3,20 +3,24 @@
 IWantToLearnX is my compilation of interesting links, inspired by BuildYourOwnX.
 
 ## Index
-1. [JavaScript/TypeScript](#javascripttypescript)
-2. [Making languages from scratch](#making-languages-from-scratch)
-3. [Miscellaneous](#miscellaneous)
-4. [Shell](#shell)
-5. [Python](#python)
-6. [Rust](#rust)
-7. [Operating Systems](#operating-systems)
-8. [Software Design](#software-design)
-9. [Browser Engine](#browser-engine)
-10. [Courses](#courses)
-11. [UI Design](#ui-design)
-12. [Game Engines](#game-engines)
-13. [Java](#java)
-14. [Own Database](#own-database)
+- [IWantToLearnX](#iwanttolearnx)
+  - [Index](#index)
+  - [JavaScript/TypeScript](#javascripttypescript)
+  - [Making languages from scratch](#making-languages-from-scratch)
+  - [Miscellaneous](#miscellaneous)
+  - [Shell](#shell)
+  - [Python](#python)
+  - [Rust](#rust)
+  - [Operating Systems](#operating-systems)
+  - [Software Design](#software-design)
+  - [Browser Engine](#browser-engine)
+  - [Courses](#courses)
+  - [UI Design](#ui-design)
+  - [Game Engines](#game-engines)
+  - [Java](#java)
+  - [Own Database](#own-database)
+  - [ASSAMLBY (ASM)](#assamlby-asm)
+      - [(X64)](#x64)
 
 ## JavaScript/TypeScript
 - [Don't use TypeScript types like this. Use Map Pattern instead](https://dev.to/perisicnikola37/dont-use-typescript-types-like-this-use-map-pattern-instead-ki3?ref=dailydev)
@@ -49,6 +53,9 @@ IWantToLearnX is my compilation of interesting links, inspired by BuildYourOwnX.
 - [Writing an OS in Rust](https://os.phil-opp.com)
 - [Leptos UI](https://leptos-use.rs/introduction.html)
 - [Table of Contents](https://github.com/vandadnp/rust-tips-and-tricks)
+- [Lifetime Specifier](https://enigbe.medium.com/lifetime-specifiers-in-rust-8cdc1f070940)
+- [Lifetime Specifier 2](https://doc.rust-lang.org/nomicon/ownership.html)
+- [Rust For Rustacean](https://nostarch.com/rust-rustaceans)
 
 ## Operating Systems
 - [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
@@ -75,3 +82,12 @@ IWantToLearnX is my compilation of interesting links, inspired by BuildYourOwnX.
 - [Advanced Programming in the Unix Environment](https://en.m.wikipedia.org/wiki/Advanced_Programming_in_the_Unix_Environment)
 - [Build your own database](https://build-your-own.org/database/)
 - [Custom Database From Scratch](https://medium.com/@nick-stambaugh/part-1-writing-a-custom-database-in-c-from-scratch-b76e2fa095af)
+
+## ASSAMLBY (ASM) 
+#### (X64)
+
+- [Playlist MODERN X64 ASM](www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA&cbrd=1)
+
+- [Let's Learn x86-64 Assembly! Part 0 - Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
+
+- [x86-64 Assembly Language Programming with Ubuntu](https://www.freetechbooks.com/x86-64-assembly-language-programming-with-ubuntu-t890.html)
