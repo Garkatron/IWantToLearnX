@@ -70,4 +70,8 @@
 
 ## Languages
 ### ZIG
-https://github.com/C-BJ/awesome-zig
+* [Awesome ZIG](https://github.com/C-BJ/awesome-zig)
+* [Awesome ZIG](https://github.com/zigcc/awesome-zig)
+
+### RUST
+[Awesome RUST](https://github.com/awesome-rust-com/awesome-rust)
