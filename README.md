@@ -14,6 +14,7 @@
   - [Shell Programming](#shell-programming)
   - [Courses](#courses)
   - [Assembly](#assembly)
+  - [Assembly](#Languages)
 
 ## Compilers and Interpreters
 - [Crafting Interpreters](https://craftinginterpreters.com/introduction.html)
