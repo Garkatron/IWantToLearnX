@@ -69,6 +69,9 @@
 - [Let's Learn x86-64 Assembly! Part 0 - Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
 - [x86-64 Assembly Language Programming with Ubuntu](https://www.freetechbooks.com/x86-64-assembly-language-programming-with-ubuntu-t890.html)
 
+# Emulators
+* [GameBoy ZIG](https://github.com/mohanson/gameboy)
+
 ## Languages
 ### ZIG
 * [Awesome ZIG](https://github.com/C-BJ/awesome-zig)
