@@ -26,7 +26,11 @@
 - [Language Parser JS (Video)](https://www.youtube.com/watch?v=4m7ubrdbWQU&pp=0gcJCfcAhR29_xXO)
 - [Baby's First Garbage Collector](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 - [Build Your Own Lisp](https://www.buildyourownlisp.com/)
-
+- [Simple C Compiler](https://github.com/morfishman/Simple_C_Compiler)
+- [C Compiler Journey](https://github.com/DoctorWkt/acwj)
+- [Teeny Tiny Compiler](https://austinhenley.com/blog/teenytinycompiler1.html)
+- [C Compiler books](https://freecomputerbooks.com/compscCompilerBooks.html)
+- 
 ## Algorithms and Data Structures
 - [Huffman Coding](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
 - [Implementing an LRU Cache](https://www.pmareke.com/posts/lru-cache/)
