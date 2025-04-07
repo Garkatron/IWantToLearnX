@@ -76,7 +76,8 @@
 
 # Emulators
 * [GameBoy ZIG](https://github.com/mohanson/gameboy)
-
+* [SVC16](https://github.com/JanNeuendorf/SVC16)
+  
 ## Languages
 ### ZIG
 * [Awesome ZIG](https://github.com/C-BJ/awesome-zig)
