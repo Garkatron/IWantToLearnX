@@ -80,3 +80,10 @@
 
 ### RUST
 * [Awesome RUST](https://github.com/awesome-rust-com/awesome-rust)
+
+### JAVA
+* [Awesome JAVA](https://github.com/akullpp/awesome-java)
+
+### C
+* [Awesome C](https://github.com/oz123/awesome-c)
+* [Awesome C](https://github.com/uhub/awesome-c)
