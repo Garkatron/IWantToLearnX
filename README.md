@@ -14,6 +14,7 @@
   - [Shell Programming](#shell-programming)
   - [Courses](#courses)
   - [Assembly](#assembly)
+  - [Emulators](#Emulators)
   - [Languages](#Languages)
 
 ## Compilers and Interpreters
