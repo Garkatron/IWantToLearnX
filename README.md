@@ -30,7 +30,9 @@
 - [C Compiler Journey](https://github.com/DoctorWkt/acwj)
 - [Teeny Tiny Compiler](https://austinhenley.com/blog/teenytinycompiler1.html)
 - [C Compiler books](https://freecomputerbooks.com/compscCompilerBooks.html)
-- 
+- [klein](https://github.com/AdamSpitz/klein)
+- [uLisp](http://www.ulisp.com)
+
 ## Algorithms and Data Structures
 - [Huffman Coding](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
 - [Implementing an LRU Cache](https://www.pmareke.com/posts/lru-cache/)
