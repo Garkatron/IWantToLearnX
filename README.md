@@ -19,6 +19,7 @@
 
 ## Compilers and Interpreters
 - [Crafting Interpreters](https://craftinginterpreters.com/introduction.html)
+- [Compilers, Principles, Techniques and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools)
 - [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/)
 - [Rewriting a Language's Compiler in Itself](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f?ref=dailydev)
 - [Amun Programming Language](https://github.com/AmrDeveloper/amun?source=post_page-----5050c982b075--------------------------------)
