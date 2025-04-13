@@ -19,6 +19,7 @@
 
 ## Compilers and Interpreters
 - [Crafting Interpreters](https://craftinginterpreters.com/introduction.html)
+- [PrattParsersMadeEasy](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 - [Compilers, Principles, Techniques and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools)
 - [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/)
 - [Rewriting a Language's Compiler in Itself](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f?ref=dailydev)
