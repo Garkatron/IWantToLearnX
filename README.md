@@ -15,6 +15,7 @@
   - [Courses](#courses)
   - [Assembly](#assembly)
   - [Emulators](#Emulators)
+  - [Performance](#performance)
   - [Languages](#Languages)
 
 ## Compilers and Interpreters
@@ -81,7 +82,10 @@
 # Emulators
 * [GameBoy ZIG](https://github.com/mohanson/gameboy)
 * [SVC16](https://github.com/JanNeuendorf/SVC16)
-  
+
+# Performance
+* [Performance](https://www.freecodecamp.org/news/why-your-code-is-slow-common-performance-mistakes-beginners-make/?ref=dailydev)
+
 ## Languages
 ### ZIG
 * [Awesome ZIG](https://github.com/C-BJ/awesome-zig)
