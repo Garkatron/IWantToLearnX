@@ -17,6 +17,7 @@
   - [Emulators](#Emulators)
   - [Performance](#performance)
   - [Languages](#Languages)
+  - [Books](#Books)
 
 ## Compilers and Interpreters
 - [Crafting Interpreters](https://craftinginterpreters.com/introduction.html)
@@ -80,7 +81,7 @@
 - [x86-64 Assembly Language Programming with Ubuntu](https://www.freetechbooks.com/x86-64-assembly-language-programming-with-ubuntu-t890.html)
 
 # Emulators
-* [GameBoy ZIG](https://github.com/mohanson/gameboy)
+* [GameBoy ZIG](https://github.com/mohanson/gameboy)https://github.com/muthukumarse/books/tree/master
 * [SVC16](https://github.com/JanNeuendorf/SVC16)
 
 # Performance
@@ -100,3 +101,6 @@
 ### C
 * [Awesome C](https://github.com/oz123/awesome-c)
 * [Awesome C](https://github.com/uhub/awesome-c)
+
+## Books
+- [Boolks](https://github.com/muthukumarse/books/tree/master)
