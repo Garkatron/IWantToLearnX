@@ -103,4 +103,5 @@
 * [Awesome C](https://github.com/uhub/awesome-c)
 
 ## Books
-- [Boolks](https://github.com/muthukumarse/books/tree/master)
+- [Bools](https://github.com/muthukumarse/books/tree/master)
+- [ModerCompilerImplementationInC](https://github.com/ethanhe42/Modern-Compiler-Implementation-in-C/blob/master/Modern%20Compiler%20Implementation%20in%20C.pdf)
