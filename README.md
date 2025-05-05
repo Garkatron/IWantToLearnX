@@ -104,6 +104,7 @@
 ### C
 * [Awesome C](https://github.com/oz123/awesome-c)
 * [Awesome C](https://github.com/uhub/awesome-c)
+* [Learn C](https://www.reddit.com/r/C_Programming/comments/10zyicb/where_and_how_to_learn_c/)
 
 ## Books
 - [Bools](https://github.com/muthukumarse/books/tree/master)
