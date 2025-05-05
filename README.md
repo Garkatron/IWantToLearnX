@@ -38,6 +38,7 @@
 - [uLisp](http://www.ulisp.com)
 - [make a listp](https://github.com/kanaka/mal)
 - [LearnLuaVM](https://github.com/davidm/lua-inspect/tree/master)
+- [LuaRepo](https://github.com/lua/lua)
 
 ## Algorithms and Data Structures
 - [Huffman Coding](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
