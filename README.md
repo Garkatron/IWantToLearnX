@@ -78,6 +78,7 @@
 
 ## Courses
 - [Your Career in Web Development Starts Here](https://www.theodinproject.com)
+- [HashMaps](https://medium.com/javarevisited/understanding-hashmap-internal-working-d41596121207)
 
 ## Assembly
 - [MODERN X64 ASM (Playlist)](www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA&cbrd=1)
