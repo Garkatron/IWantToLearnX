@@ -40,6 +40,7 @@
 - [LearnLuaVM](https://github.com/davidm/lua-inspect/tree/master)
 - [LuaRepo](https://github.com/lua/lua)
 - [PratParsing](www.youtube.com/watch?v=0c8b7YfsBKs&ref=dailydev)
+- [LispInRust](https://github.com/Atticus64/lisp-inrs)
 
 ## Algorithms and Data Structures
 - [Huffman Coding](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
