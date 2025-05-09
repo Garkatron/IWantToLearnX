@@ -39,6 +39,7 @@
 - [make a listp](https://github.com/kanaka/mal)
 - [LearnLuaVM](https://github.com/davidm/lua-inspect/tree/master)
 - [LuaRepo](https://github.com/lua/lua)
+- [PratParsing](www.youtube.com/watch?v=0c8b7YfsBKs&ref=dailydev)
 
 ## Algorithms and Data Structures
 - [Huffman Coding](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
