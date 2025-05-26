@@ -100,7 +100,8 @@
 
 ### RUST
 * [Awesome RUST](https://github.com/awesome-rust-com/awesome-rust)
-
+* [Rust Cheatsheet](https://zerotomastery.io/cheatsheets/rust-cheat-sheet/?ref=dailydev)
+  
 ### JAVA
 * [Awesome JAVA](https://github.com/akullpp/awesome-java)
 
