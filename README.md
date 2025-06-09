@@ -41,7 +41,8 @@
 - [LuaRepo](https://github.com/lua/lua)
 - [PratParsing](www.youtube.com/watch?v=0c8b7YfsBKs&ref=dailydev)
 - [LispInRust](https://github.com/Atticus64/lisp-inrs)
-- [Lox2 (types)][https://github.com/HallofFamer/Lox2]
+- [Lox2 (types)](https://github.com/HallofFamer/Lox2)
+- [Rust lox vm](https://github.com/ltungv/rox)
 
 ## Algorithms and Data Structures
 - [Huffman Coding](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
