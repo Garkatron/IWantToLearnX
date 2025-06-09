@@ -43,6 +43,7 @@
 - [LispInRust](https://github.com/Atticus64/lisp-inrs)
 - [Lox2 (types)](https://github.com/HallofFamer/Lox2)
 - [Rust lox vm](https://github.com/ltungv/rox)
+- [Rust lox vm2](https://github.com/jtran/liquid-lox/tree/main)
 
 ## Algorithms and Data Structures
 - [Huffman Coding](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
