@@ -44,6 +44,11 @@
 - [Lox2 (types)](https://github.com/HallofFamer/Lox2)
 - [Rust lox vm](https://github.com/ltungv/rox)
 - [Rust lox vm2](https://github.com/jtran/liquid-lox/tree/main)
+- [Tiny Register VM c](https://en.m.wikibooks.org/wiki/Creating_a_Virtual_Machine/Register_VM_in_C)
+- [Register VM c 2](https://thesephist.com/posts/lua/#register-machine)
+- [Cish lang r vm](https://github.com/TheRealMichaelWang/cish)
+- [finch](https://www.reddit.com/r/coding/comments/2icoon/a_very_very_simple_registerbased_virtual_machine/)
+- [wren](https://github.com/wren-lang/wren)
 
 ## Algorithms and Data Structures
 - [Huffman Coding](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
