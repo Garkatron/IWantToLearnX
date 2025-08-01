@@ -50,6 +50,7 @@
 - [finch](https://www.reddit.com/r/coding/comments/2icoon/a_very_very_simple_registerbased_virtual_machine/)
 - [wren](https://github.com/wren-lang/wren)
 - [Garbage-Collectors](https://gchandbook.org/)
+- [Garbage-Collector-Rust](https://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/)
 
 ## Algorithms and Data Structures
 - [Huffman Coding](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
