@@ -79,6 +79,8 @@
 ## Software Design
 - [SOLID Principle](https://medium.com/javarevisited/s-o-l-i-d-principle-part-1-b6242c51ecad)
 - [Software Design Lessons](https://leanpub.com/pppsd/read#leanpub-auto-introduccin)
+- [Microservices](https://microservices.io)
+- [TwelveFactorApp](https://12factor.net)
 
 ## UI Design
 - [Ant Design 5.0](https://ant.design)
