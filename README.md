@@ -81,6 +81,7 @@
 - [Software Design Lessons](https://leanpub.com/pppsd/read#leanpub-auto-introduccin)
 - [Microservices](https://microservices.io)
 - [TwelveFactorApp](https://12factor.net)
+- [CleanArchitecture](https://medium.com/@diego.coder/introducci%C3%B3n-a-las-clean-architectures-723fe9fe17fa)
 
 ## UI Design
 - [Ant Design 5.0](https://ant.design)
