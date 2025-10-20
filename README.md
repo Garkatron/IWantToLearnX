@@ -65,6 +65,8 @@
 ## GPUs
 - [gpu-background](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html)
 - [gpu-characteristics](https://cvw.cac.cornell.edu/gpu-architecture/gpu-characteristics/design)
+- [SoftGPU](https://github.com/mhmdsabry/SoftGPU?utm_source=chatgpt.com)
+- [TinyGPU](https://github.com/adam-maj/tiny-gpu?utm_source=chatgpt.com)
 
 ## Databases
 - [Build your own database](https://build-your-own.org/database/)
