@@ -21,6 +21,9 @@
 
 ## Compilers and Interpreters
 - [Crafting Interpreters](https://craftinginterpreters.com/introduction.html)
+- [BranchPrediction](https://inria.hal.science/hal-01100647/document)
+- [squeezing-a-little-more-performance-out-of-bytecode-interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
+- [BytecodeInterpretersPost](https://github.com/vkazanov/bytecode-interpreters-post)
 - [PrattParsersMadeEasy](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 - [Compilers, Principles, Techniques and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools)
 - [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/)
