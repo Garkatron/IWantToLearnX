@@ -62,6 +62,10 @@
 - [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
 - [Writing an OS in Rust](https://os.phil-opp.com)
 
+## GPUs
+- [gpu-background](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html)
+- [gpu-characteristics](https://cvw.cac.cornell.edu/gpu-architecture/gpu-characteristics/design)
+
 ## Databases
 - [Build your own database](https://build-your-own.org/database/)
 - [Custom Database From Scratch](https://medium.com/@nick-stambaugh/part-1-writing-a-custom-database-in-c-from-scratch-b76e2fa095af)
