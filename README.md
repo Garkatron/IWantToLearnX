@@ -135,6 +135,7 @@
 * [Learn C](https://www.learn-c.org/?ref=dailydev#google_vignette)
 
 ### Game Reverse Enginering
+- [TheHackingBible](https://guidedhacking.com/)
 - [reverse-engineering-a-videogame-part-1](https://medium.com/@valeriy.krygin/reverse-engineering-a-videogame-part-1-know-your-tools-7906f9bd0e3e)
 - [game-reversing](https://github.com/kovidomi/game-reversing)
 
