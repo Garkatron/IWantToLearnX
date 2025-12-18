@@ -134,6 +134,10 @@
 * [Learn C](https://www.reddit.com/r/C_Programming/comments/10zyicb/where_and_how_to_learn_c/)
 * [Learn C](https://www.learn-c.org/?ref=dailydev#google_vignette)
 
+### Game Reverse Enginering
+- [reverse-engineering-a-videogame-part-1](https://medium.com/@valeriy.krygin/reverse-engineering-a-videogame-part-1-know-your-tools-7906f9bd0e3e)
+- [game-reversing](https://github.com/kovidomi/game-reversing)
+
 ## Books
 - [Bools](https://github.com/muthukumarse/books/tree/master)
 - [ModerCompilerImplementationInC](https://github.com/ethanhe42/Modern-Compiler-Implementation-in-C/blob/master/Modern%20Compiler%20Implementation%20in%20C.pdf)
