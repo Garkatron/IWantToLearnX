@@ -142,3 +142,7 @@
 ## Books
 - [Bools](https://github.com/muthukumarse/books/tree/master)
 - [ModerCompilerImplementationInC](https://github.com/ethanhe42/Modern-Compiler-Implementation-in-C/blob/master/Modern%20Compiler%20Implementation%20in%20C.pdf)
+
+## Game IA
+- [gameaipro](https://www.gameaipro.com/)
+- [advanced-ai-programming-for-adaptive-npc-behavior](https://medium.com/@argentics/advanced-ai-programming-for-adaptive-npc-behavior-91bad6236f95)
