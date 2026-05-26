@@ -146,3 +146,12 @@
 ## Game IA
 - [gameaipro](https://www.gameaipro.com/)
 - [advanced-ai-programming-for-adaptive-npc-behavior](https://medium.com/@argentics/advanced-ai-programming-for-adaptive-npc-behavior-91bad6236f95)
+
+# Machine Learning
+- https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning
+- https://github.com/eriklindernoren/ML-From-Scratch
+- https://github.com/karpathy/micrograd
+- https://github.com/tinygrad/tinygrad
+- https://minitorch.github.io/
+- https://github.com/MarioSieg/magnetron
+- https://nnfs.io/
