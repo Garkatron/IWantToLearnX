@@ -18,6 +18,7 @@
   - [Performance](#performance)
   - [Languages](#Languages)
   - [Books](#Books)
+  - [Web Design](#WebDesign)
 
 ## Compilers and Interpreters
 - [Crafting Interpreters](https://craftinginterpreters.com/introduction.html)
@@ -155,3 +156,6 @@
 - https://minitorch.github.io/
 - https://github.com/MarioSieg/magnetron
 - https://nnfs.io/
+
+# Web design
+- https://gridlanes.webkit.org/
